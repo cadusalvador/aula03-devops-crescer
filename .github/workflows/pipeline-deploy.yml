@@ -1,4 +1,4 @@
-name: Ambiente Dsenvolvimento
+name: Ambiente Desenvolvimento
 
 on:
   push:
